@@ -2,3 +2,4 @@ edit 2 using new file in github site interface.
 receiving error when trying to checkout branch 056_Harshavk from mobaxterm
 [harsha@ip-172-31-7-218 project1]$ git checkout 056_Harshavk
 error: pathspec '056_Harshavk' did not match any file(s) known to git
+editing and adding data to existing file
